@@ -4,6 +4,7 @@
 ;@Ahk2Exe-SetCopyright Copyright (c) 2026 Ahmed Samy
 ;@Ahk2Exe-SetCompanyName Ahmed Samy
 ;@Ahk2Exe-SetOrigFilename ClipType.exe
+;@Ahk2Exe-SetMainIcon ..\..\assets\ClipType.ico
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 #NoTrayIcon
