@@ -108,7 +108,7 @@ ClipType 摒弃了臃肿的第三方依赖，完全基于各系统的原生底�
 
 ---
 
-## 🙏 鸣谢与致谢 (Acknowledgements)
+## 🙏 鸣谢与致谢
 
 本项目 Fork 自上游原作者开源项目：[ahmedthebest31/ClipType](https://github.com/ahmedthebest31/ClipType)  
 在此衷心感谢原作者 [@ahmedthebest31](https://github.com/ahmedthebest31) 的优秀设计与开源贡献！  
