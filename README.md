@@ -110,6 +110,8 @@ ClipType 摒弃了臃肿的第三方依赖，完全基于各系统的原生底�
 
 ## 🙏 鸣谢与致谢
 
-本项目 Fork 自上游原作者开源项目：[ahmedthebest31/ClipType](https://github.com/ahmedthebest31/ClipType)  
-在此衷心感谢原作者 [@ahmedthebest31](https://github.com/ahmedthebest31) 的优秀设计与开源贡献！  
-本项目在此基础上增加了简体中文本地化、修复了首字符漏输入时序问题
+本项目基于上游开源项目 [ahmedthebest31/ClipType](https://github.com/ahmedthebest31/ClipType) 进行 Fork 与二次开发。在此衷心感谢原作者 [@ahmedthebest31](https://github.com/ahmedthebest31) 的卓越设计与无私分享！
+
+**本分支主要改进与优化：**
+* 🌐 **简体中文**：新增完整的简体中文界面
+* ⚡ **输入时序与稳定性优化**：优化全局热键释放逻辑，彻底修复开头首字符容易漏输入的问题。
