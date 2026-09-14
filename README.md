@@ -112,4 +112,4 @@ ClipType 摒弃了臃肿的第三方依赖，完全基于各系统的原生底�
 
 本项目 Fork 自上游原作者开源项目：[ahmedthebest31/ClipType](https://github.com/ahmedthebest31/ClipType)  
 在此衷心感谢原作者 [@ahmedthebest31](https://github.com/ahmedthebest31) 的优秀设计与开源贡献！  
-本项目在此基础上增加了简体中文本地化、修复了首字符漏输入时序问题、重构了全尺寸高兼容 Windows 图标及构建发布流程。
+本项目在此基础上增加了简体中文本地化、修复了首字符漏输入时序问题
